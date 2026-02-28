@@ -59,15 +59,25 @@ Para interactuar con la API:
     * `DELETE /topicos/{id}`
   
 ## Vista Previa
-1- <img width="1188" height="306" alt="image" src="https://github.com/user-attachments/assets/c25b81d9-1c2f-4610-9a69-fa29fb5b425a" />
+-Autenticar:
 
-2- <img width="1188" height="349" alt="image" src="https://github.com/user-attachments/assets/f9cf0d77-4ddb-43f2-9f39-cbf0c998b159" />
+<img width="1188" height="306" alt="image" src="https://github.com/user-attachments/assets/c25b81d9-1c2f-4610-9a69-fa29fb5b425a" />
 
-3- <img width="1179" height="375" alt="image" src="https://github.com/user-attachments/assets/5befd22a-8548-40c7-9de0-bacd367900f0" />
+-Registrar:
 
-4- <img width="1188" height="350" alt="image" src="https://github.com/user-attachments/assets/2e1ccb19-5982-44e7-bebc-035576dd78ae" />
+<img width="1188" height="349" alt="image" src="https://github.com/user-attachments/assets/f9cf0d77-4ddb-43f2-9f39-cbf0c998b159" />
 
-5- <img width="601" height="283" alt="image" src="https://github.com/user-attachments/assets/46acfa00-e90a-4b36-a517-1992d3c27f7a" />
+-Listar:
+
+<img width="1179" height="375" alt="image" src="https://github.com/user-attachments/assets/5befd22a-8548-40c7-9de0-bacd367900f0" />
+
+-Actualizar:
+
+<img width="1188" height="350" alt="image" src="https://github.com/user-attachments/assets/2e1ccb19-5982-44e7-bebc-035576dd78ae" />
+
+-Eliminar:
+
+<img width="601" height="283" alt="image" src="https://github.com/user-attachments/assets/46acfa00-e90a-4b36-a517-1992d3c27f7a" />
 
 ---
 Desarrollado por Juan Arturo Camarillo Gutierrez - 2026 🎓
